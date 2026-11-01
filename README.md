@@ -47,11 +47,7 @@ Add your screenshots to `docs/screenshots/` using the filenames below. The boxes
   </tr>
 </table>
 
-To display an image here after adding it, replace a placeholder with Markdown, for example:
 
-```md
-![PromptPixel workspace](docs/screenshots/home.png)
-```
 
 ## What it does
 
