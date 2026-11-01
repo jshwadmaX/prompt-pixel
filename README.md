@@ -24,21 +24,25 @@ Add your screenshots to `docs/screenshots/` using the filenames below. The boxes
   <tr>
     <td align="center" width="50%">
       <strong>Prompt workspace</strong><br>
-      <sub>Add <code>docs/screenshots/home.png</code></sub>
+      <sub><img width="1920" height="828" alt="Screenshot (1518)" src="https://github.com/user-attachments/assets/6086a072-f60e-4874-a75c-9ae33e6f5cdd" />
+</sub>
     </td>
     <td align="center" width="50%">
       <strong>Prompt review and improvements</strong><br>
-      <sub>Add <code>docs/screenshots/refine.png</code></sub>
+      <sub><img width="1538" height="647" alt="Screenshot (1519)" src="https://github.com/user-attachments/assets/522bc28d-2b9b-4f2f-bb49-921e1331099a" />
+</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <strong>Generated image</strong><br>
-      <sub>Add <code>docs/screenshots/result.png</code></sub>
+      <sub><img width="1125" height="1125" alt="WhatsApp Image 2026-11-01 at 11 04 19 AM" src="https://github.com/user-attachments/assets/74d44ccc-018d-4f1e-bec6-42cd16bc520e" />
+</sub>
     </td>
     <td align="center" width="50%">
       <strong>Saved feedback</strong><br>
-      <sub>Add <code>docs/screenshots/feedback.png</code></sub>
+      <sub><img width="1654" height="805" alt="Screenshot (1523)" src="https://github.com/user-attachments/assets/578cb954-65b8-442e-b7c8-649b8fcf4e8d" />
+</sub>
     </td>
   </tr>
 </table>
